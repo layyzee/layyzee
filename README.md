@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @layyzee
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css,java script and react
+- 🌱 I’m currently learning html,css,java script and reactjs
 - 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me? please dont
 
