@@ -8,11 +8,11 @@
   <b>CSM® • SAFe® 6 Scrum Master (SSM) • 7.8+ Years in Software Delivery & Web Systems</b>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji_Palani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajipalani92)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji_Palani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajipalani)
 [![Email](https://img.shields.io/badge/Email-balajinia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajinia@gmail.com)
+[![Sai Satcharitra App](https://img.shields.io/badge/🕉️_macOS_App-v1.2.0-ff9933?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/layyzee/sai-satcharitra-reader/releases/tag/v1.2.0)
 [![BalaBoard Live](https://img.shields.io/badge/🚀_Live_App-BalaBoard-4f46e5?style=for-the-badge&logo=render&logoColor=white)](https://balaboard.onrender.com)
 [![DiaStudio Live](https://img.shields.io/badge/🔮_Live_App-DiaStudio-6366f1?style=for-the-badge&logo=render&logoColor=white)](https://diastudio.onrender.com)
-[![Playbook Live](https://img.shields.io/badge/📘_Live_Playbook-Agile_Hub-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://layyzee.github.io/balaji-agile-playbook/)
 
 </div>
 
@@ -132,7 +132,48 @@ While traditional agile delivery relies heavily on static boards and manual cere
     </td>
   </tr>
 
-  <!-- ROW 3: Agile Ceremony Accelerators -->
+  <!-- ROW 3: Sri Sai Satcharitra Desktop App & CareerOps -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕉️ Sri Sai Satcharitra Reader</h3>
+      <p align="center">
+        <b>Native macOS Desktop App for Sacred Daily Reading</b><br/>
+        <i>Production v1.2.0 • Web Audio Tanpura Synthesis • Reading Memory</i>
+      </p>
+      <p>
+        A distraction-free, beautifully crafted macOS desktop application for reading Sri Sai Satcharitra. Built with modern web tech and packaged for Apple Silicon.
+      </p>
+      <ul>
+        <li><b>Web Audio Tanpura Drone:</b> Real-time synthesized meditative Tanpura drone (Key <code>M</code>) for immersive reading.</li>
+        <li><b>Persistent Reading Memory:</b> Auto-saves reading progress and chapter bookmarks across sessions.</li>
+        <li><b>Daily Notifications:</b> Configurable macOS daily reading reminders and serene typography.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/layyzee/sai-satcharitra-reader/releases/tag/v1.2.0"><b>📦 Download macOS App (.dmg)</b></a> • 
+        <a href="https://github.com/layyzee/sai-satcharitra-reader"><b>⭐ View Source</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 CareerOps Engine</h3>
+      <p align="center">
+        <b>Autonomous Zero-Cost AI Job Search & ATS Pipeline</b><br/>
+        <i>Node.js • SQLite • Multi-Provider Free LLM Router • Playwright</i>
+      </p>
+      <p>
+        An open-source, sovereign job search agent that scans 187+ enterprise portals, evaluates listings against authentic facts, and generates tailored ATS resumes.
+      </p>
+      <ul>
+        <li><b>Zero-Hallucination Fact Checks:</b> Strict deterministic token validation preventing any CV fabrication.</li>
+        <li><b>Daily Scheduled Scanner:</b> Native background daemon running at 10:30 AM with macOS chime notifications.</li>
+        <li><b>Resilient Multi-LLM Gateway:</b> Auto-routing across Groq, Google Gemini, NVIDIA NIM, and Cloudflare at $0 cost.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/layyzee/career-ops"><b>⭐ View Source</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 4: Agile Ceremony Accelerators -->
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">🃏 Agile Ceremony Suite: PIPlanner & SprintPoker</h3>
@@ -195,8 +236,9 @@ While traditional agile delivery relies heavily on static boards and manual cere
 
 Whether you're looking for an **Agile Delivery Lead / Senior Scrum Master** who understands technical architecture down to the metal, or want to collaborate on real-time web engines and local AI tooling:
 
-- 💼 **LinkedIn:** [linkedin.com/in/balajipalani92](https://www.linkedin.com/in/balajipalani92)
+- 💼 **LinkedIn:** [linkedin.com/in/balajipalani](https://www.linkedin.com/in/balajipalani)
 - ✉️ **Direct Email:** [balajinia@gmail.com](mailto:balajinia@gmail.com)
+- 🕉️ **Sri Sai Satcharitra macOS App:** [Download v1.2.0 (.dmg)](https://github.com/layyzee/sai-satcharitra-reader/releases/tag/v1.2.0)
 - 🚀 **Test Drive BalaBoard:** [balaboard.onrender.com](https://balaboard.onrender.com)
 - 🔮 **Explore DiaStudio:** [diastudio.onrender.com](https://diastudio.onrender.com)
 - 📘 **Agile Playbook:** [layyzee.github.io/balaji-agile-playbook](https://layyzee.github.io/balaji-agile-playbook/)
