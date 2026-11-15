@@ -1,18 +1,55 @@
 <div align="center">
 
-# Hi, I'm Balaji Palani 👋
+<!-- 🌊 Sleek Wave Header Banner -->
+<a href="https://linkedin.com/in/balajipalani">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=180&section=header&text=Balaji%20Palani&fontSize=42&fontAlignY=36&desc=Senior%20Scrum%20Master%20%7C%20Agile%20Delivery%20Lead%20%7C%20AI%20Systems%20Builder&descAlignY=62&descSize=17&fontColor=ffffff&theme=tokyonight" width="100%" alt="Balaji Palani Header Banner" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vcenter=true&width=620&lines=Senior+Scrum+Master+%26+Agile+Delivery+Lead;Full-Stack+Architect+(React+18+%E2%80%A2+Node.js+%E2%80%A2+WebSockets);AI+Systems+Builder+(Multi-Agent+Workstations+%E2%80%A2+Local+LLMs);Creator+of+DiaStudio%2C+BalaBoard+%26+BalaGPT;Advocate+for+Zero-Cost%2C+Privacy-First+Engineering)](https://git.io/typing-svg)
-
+<!-- ⌨️ Responsive Typing Subtitle (Never Clips) -->
 <p align="center">
-  <b>CSM® • SAFe® 6 Scrum Master (SSM) • 7.8+ Years in Software Delivery & Web Systems</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=6366F1&center=true&vcenter=true&width=500&lines=Senior+Scrum+Master+%26+Agile+Delivery+Lead;CSM%C2%AE+%E2%80%A2+SAFe%C2%AE+6+Scrum+Master+(SSM);Immediate+Joiner+%E2%80%A2+0-Day+Notice+Period;Full-Stack+Architect+(React+18+%E2%80%A2+AWS+%E2%80%A2+WebSockets);Creator+of+BalaBoard%2C+DiaStudio+%26+CareerOps" alt="Balaji Palani Typing Animation" />
+  </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji_Palani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajipalani)
-[![Email](https://img.shields.io/badge/Email-balajinia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajinia@gmail.com)
-[![Sai Satcharitra App](https://img.shields.io/badge/🕉️_macOS_App-v1.2.0-ff9933?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/layyzee/sai-satcharitra-reader/releases/tag/v1.2.0)
-[![BalaBoard Live](https://img.shields.io/badge/🚀_Live_App-BalaBoard-4f46e5?style=for-the-badge&logo=render&logoColor=white)](https://balaboard.onrender.com)
-[![DiaStudio Live](https://img.shields.io/badge/🔮_Live_App-DiaStudio-6366f1?style=for-the-badge&logo=render&logoColor=white)](https://diastudio.onrender.com)
+<!-- 🎯 Key Candidate Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Immediate%20Joiner%20(0%20Notice)-success?style=flat-square&logo=clock&logoColor=white" alt="Immediate Joiner" />
+  <img src="https://img.shields.io/badge/Role-Senior%20Scrum%20Master%20%2F%20Delivery%20Lead-blue?style=flat-square&logo=scrumalliance&logoColor=white" alt="Target Role" />
+  <img src="https://img.shields.io/badge/Certifications-CSM%C2%AE%20%7C%20SAFe%C2%AE%206%20SSM-8A2BE2?style=flat-square" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Location-Mumbai%20%E2%80%A2%20Open%20to%20Remote%20%2F%20Relocation-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<!-- 🌐 Primary Connect & Live Products -->
+<p align="center">
+  <a href="https://linkedin.com/in/balajipalani"><img src="https://img.shields.io/badge/LinkedIn-Balaji_Palani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:balajinia@gmail.com"><img src="https://img.shields.io/badge/Email-balajinia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/layyzee/sai-satcharitra-reader/releases/tag/v1.2.0"><img src="https://img.shields.io/badge/🕉️_macOS_App-v1.2.0-ff9933?style=for-the-badge&logo=apple&logoColor=white" alt="Sai Satcharitra macOS App" /></a>
+  <a href="https://balaboard.onrender.com"><img src="https://img.shields.io/badge/🚀_BalaBoard-Live_Retros-4f46e5?style=for-the-badge&logo=render&logoColor=white" alt="BalaBoard Live" /></a>
+  <a href="https://diastudio.onrender.com"><img src="https://img.shields.io/badge/🔮_DiaStudio-AI_Workstation-6366f1?style=for-the-badge&logo=render&logoColor=white" alt="DiaStudio Live" /></a>
+</p>
+
+<!-- ⚡ Executive Highlights at a Glance -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <b>🎯 Agile Leadership</b><br/>
+      <sub>4+ Yrs Dedicated Scrum Master<br/>Managed 3 Concurrent Squads</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>📈 Proven Impact</b><br/>
+      <sub>+20% Sprint Velocity Boost<br/>-40% Mid-Sprint Blockers</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>🛠️ Systems Depth</b><br/>
+      <sub>7.8+ Yrs IT & Software Dev<br/>React 18, Cloud & Local AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>⚡ Availability</b><br/>
+      <sub>0 Days Notice Period<br/>Immediate Joiner</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
